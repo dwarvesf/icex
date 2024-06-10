@@ -1,8 +1,8 @@
 # ICEX - The experiment DEX
 
 ## Requirements
-- [] Providing liquidity
-- [] Swap
+- [ ] Providing liquidity
+- [ ] Swap
 
 ## Structure
 This project has two main folders:
